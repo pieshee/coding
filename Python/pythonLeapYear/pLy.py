@@ -8,7 +8,7 @@ import sys
 # Accept an int year as a command-line argument. Write True to
 # standard output if year is a leap year.  Otherwise write False.
 
-year = int(input("Enter a year: "))
+year = int(sys.argv[1])
 
 isLeapYear = (year % 4 == 0)
 isLeapYear = isLeapYear and (year % 100 != 0)
