@@ -1,4 +1,4 @@
 ```````````````````````
-it’s time I dipped my hands and took a look around to code!
-try get my hands dirty with coding & tinkering
+it’s time I dipped my hands and take a look around to code..
+try get my hands dirty with coding & tinkering hahahaaa
 ``````````````````````````
