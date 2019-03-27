@@ -1,3 +1,3 @@
 ```
-dipped my hands and take a look around to coding and tinkering
+i dipped my hands and take a look around to coding and tinkering
 ````
